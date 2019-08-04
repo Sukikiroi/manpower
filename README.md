@@ -74,7 +74,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **kaddour abdelaziz** - *Initial work* - [QHSE](https://github.com/sukikiro)
+* **kaddour abdelaziz** - *Initial work* - [QHSE](https://github.com/Sukikiroi/Odoo_QHSE)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
